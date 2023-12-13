@@ -11,7 +11,6 @@ setup(
     version="0.1",
     description="",
     author="Joseph R. Tricarico",
-    author_email="jtricarico@gmail.com",
     url="http://github.com/joetric/polyfinder",
     license="MIT",
     long_description=read('README.rst'),
